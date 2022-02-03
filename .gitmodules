@@ -1,0 +1,3 @@
+[submodule "mc"]
+	path = mc
+	url = https://raw.githubusercontent.com/lgc2333/BDSPyRunnerDevModule/main/mc.pyi
