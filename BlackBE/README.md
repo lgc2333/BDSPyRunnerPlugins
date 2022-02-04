@@ -32,6 +32,8 @@ BlackBE站长：Nyan-Cat [云黑官网](https://blackbe.xyz) [赞助云黑](http
 
   ![](./readme/readme5.png)
 
+- 插件提供给开发者调用的API，使用`pydantic`解析返回数据，请自行查看[`blackbe_api.py`](./blackbe_api.py)
+
 初次使用
 --
 
