@@ -28,6 +28,10 @@ Author: [student_2333](https://github.com/lgc2333)
   form.add_toggle('我是开关，在下拉框上面！', insert_pos=2)
   player.sendCustomForm(str(form), lambda _, __: None)
   ```
+  `str(form)`输出（格式化后）：
+
+  ![](readme/readme2.png)
+
   效果：
 
   ![](readme/readme1.png)
