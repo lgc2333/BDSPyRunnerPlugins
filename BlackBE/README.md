@@ -4,7 +4,7 @@ Version: 3.0.0
 
 Author: [student_2333](https://github.com/lgc2333)
 
-BlackBE站长：Nyan-Cat [云黑官网](https://blackbe.xyz) [赞助云黑](https://afdian.net/@BlackBE)
+BlackBE站长：NyanCatda [云黑官网](https://blackbe.xyz) [赞助云黑](https://afdian.net/@BlackBE)
 
 插件需求
 --
